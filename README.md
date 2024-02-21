@@ -16,7 +16,7 @@
 ## Setup/Installation Requirements
 
 * open git bash or another terminal application
-* run the command "git clone https://github.com/bobcat673/button-examples.git
+* run the command "git clone https://github.com/bobcat673/madlibs-clone.git"
 * open index.html
 
 ## Known Bugs
